@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 学习缓存区
 添加一行内容
 管理修改
+撤销修改
