@@ -6,4 +6,8 @@ Git is free software distributed under the GPL.
 管理修改
 撤销修改
 增加分支
+<<<<<<< HEAD
 master提交
+=======
+解决冲突
+>>>>>>> fea
